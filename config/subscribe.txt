@@ -1,11 +1,16 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-# 综合频道源（含央视、卫视、体育）
+https://iptv-org.github.io/iptv/index.m3u
+https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
+https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
+https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+https://testingcf.jsdelivr.net/gh/YueChan/Live@main/IPTV.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u
-
-# 专门的体育源（可能包含五星体育、劲爆体育等）
-https://raw.githubusercontent.com/guofei0723/IPTV/main/tv.m3u
+https://live.fanmingming.cn/tv/m3u/ipv6.m3u
+https://epg.pw/test_channels.m3u
+https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
